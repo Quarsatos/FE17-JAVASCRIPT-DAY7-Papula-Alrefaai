@@ -1,1 +1,32 @@
-/*# sourceMappingURL=style.css.map */
+body {
+  background: white;
+  padding-top: 3.5em;
+}
+
+.b_img {
+  background-image: url("../images/banner.webp");
+  background-color: white;
+  background-repeat: no-repeat;
+  height: 30vh;
+}
+.b_img > h2 {
+  background: rgba(0, 0, 0, 0.3);
+  color: white;
+  padding: 1em;
+}
+
+#d_container {
+  gap: 3em;
+  margin: 2em auto;
+  background: white;
+  padding: 1;
+}
+
+#d_card {
+  box-shadow: -15px 10px 15px -8px black, 15px 10px 15px -8px black;
+}
+
+.cart {
+  background: white;
+  box-shadow: -15px -10px 15px -8px black, 15px 10px 15px -8px black;
+}/*# sourceMappingURL=style.css.map */

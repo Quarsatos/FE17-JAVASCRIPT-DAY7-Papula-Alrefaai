@@ -1,0 +1,31 @@
+const flowersJSON = `[{
+    "name": "Autumn-Bouquet",
+    "image": "herbststrauß.jpg",
+    "qtty": 1,
+    "price": 30
+},{
+    "name": "Gerbera-Bouquet",
+    "image": "r_gerbera.jpg",
+    "qtty": 1,
+    "price": 40
+},{
+    "name": "Rose-Bouquet",
+    "image": "rosenstrauß.webp",
+    "qtty": 1,
+    "price": 35
+},{
+    "name": "Sunflower-Bouquet",
+    "image": "sonnenblumenstrauß.jpg",
+    "qtty": 1,
+    "price": 37
+},{
+    "name": "Orange-Theme-Bouquet",
+    "image": "strauß_orange.jpg",
+    "qtty": 1,
+    "price": 50
+},{
+    "name": "Tulnip-Bouquet",
+    "image": "tulpenstrauß.webp",
+    "qtty": 1,
+    "price": 25
+}]`
